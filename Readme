@@ -4,7 +4,7 @@ A web-based AI chatbot built with Python and Streamlit, using the Groq API to ge
 
 The project provides a simple conversational interface where users can interact with an AI assistant directly from a web browser.
 
----
+
 
 ## 📌 Project Overview
 
@@ -103,4 +103,4 @@ Response
   │
   ▼
 Streamlit Chat Interface
-```
+
