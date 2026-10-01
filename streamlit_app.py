@@ -9,7 +9,7 @@ st.set_page_config(
 )
 
 
-st.title("🤖 AI Chatbot")
+st.title("🤖 NexaChat AI Chatbot")
 st.caption("Powered by Groq")
 
 
